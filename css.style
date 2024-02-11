@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: #323238;
+}
+header{
+    font-size: 30px;
+    background-color: #171531;
+}
+ul{
+    background-color: aqua;
+}
+img{
+    padding: 10px;
+}
+footer{
+    background-color: #970909;
+}
+img:hover{
+    border: 6px solid greenyellow;
+    transition: 0.5s ease-out;
+    border-radius: 20px;
+}

@@ -13,7 +13,8 @@ img{
     padding: 10px;
 }
 footer{
-    background-color: #970909;
+    background-color: black;
+    color: blanchedalmond;
 }
 img:hover{
     border: 6px solid greenyellow;

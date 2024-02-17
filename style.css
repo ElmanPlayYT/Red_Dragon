@@ -16,7 +16,7 @@ img{
     background-color: #171531;
     color: blanchedalmond;
 }
-.tik:hover{
+.img:hover{
     border: 6px solid greenyellow;
     transition: 0.5s ease-out;
     border-radius: 20px;

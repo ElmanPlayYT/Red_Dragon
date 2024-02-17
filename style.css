@@ -1,10 +1,10 @@
 .tik{
     font-family: sans-serif;
-    background-color: #323238;
+    background-color: #171531;
 }
 header{
     font-size: 30px;
-    background-color: #171531;
+    background-color: #323238;
 }
 ul{
     background-color: aqua;
@@ -22,5 +22,5 @@ img:hover{
     border-radius: 20px;
 }
 .link-header{
-    color: #04d9ff
+    color: #04d9ff;
 }

@@ -13,14 +13,11 @@ img{
     padding: 10px;
 }
 .cucu{
-    background-color: #171531;
-    color: blanchedalmond;
+    background-color: blak;
+    color: #0969A2;
 }
-.img:hover{
-    border: 6px solid greenyellow;
+img:hover{
+    border: 6px solid #5555ff;
     transition: 0.5s ease-out;
     border-radius: 20px;
-}
-.cucu{
-    background-color:blak
 }
